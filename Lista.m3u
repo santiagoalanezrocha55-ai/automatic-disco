@@ -2618,10 +2618,8 @@ http://190.60.49.242:4000/play/a0nn/index.m3u8
 #EXTINF:0,CANAL UNIVERSAL HD
 #EXTVLCOPT:network-caching=1000
 http://190.60.49.242:4000/play/a0jh/index.m3u8
-
-#EXTINF:0,EE. UU.
-#EXTVLCOPT:network-caching=1000
-http://190.60.49.242:4000/play/a0lj/index.m3u8
+#EXTINF:-1 tvg-id="Ecuador" tvg-name="Zaapin sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/330px-Canal_13_2025.svg.png" group-title="PELÍCULAS Y SERIES",CANAL 13
+http://redworld.pro:8880/live/Juanestrozusach/XMCYxMwnRWyq/520014.m3u8
 
 
 
