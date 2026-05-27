@@ -2620,7 +2620,23 @@ http://190.60.49.242:4000/play/a0nn/index.m3u8
 http://190.60.49.242:4000/play/a0jh/index.m3u8
 #EXTINF:-1 tvg-id="Ecuador" tvg-name="Zaapin sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/330px-Canal_13_2025.svg.png" group-title="PELÍCULAS Y SERIES",CANAL 13
 http://redworld.pro:8880/live/Juanestrozusach/XMCYxMwnRWyq/520014.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="⭐ Mundial⭐ 2026 ",Directv sports opc1
+http://redworld.pro:8880/live/useriptv126z/kHdMAsvwxQHM/526169.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/foxsports.png" group-title="⭐ Mundial 2026⭐ ",FDirectv sports(Opcion 2)
+http://redworld.pro:8880/live/useriptv126z/kHdMAsvwxQHM/526170.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/foxsports3.png" group-title="⭐ Mundial 2026⭐ ",FDirectv sports opc3
+http://redworld.pro:8880/live/useriptv126z/kHdMAsvwxQHM/527938.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/foxsports2.png" group-title="⭐ Mundial 2026⭐ ",Tigo sports
+https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index_6.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn4.png" group-title="⭐ Mundial 2026⭐ ",Unitel
+https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn3.png" group-title="⭐ Mundial 2026⭐ ",R3d uno
+https://streamer03.digital.com.bo/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 
 
 
