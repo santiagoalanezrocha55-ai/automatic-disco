@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png" group-title="Eventos Del Dia", ENTEL GOL BO
+#EXTINF:-1 tvg-logo="https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2025/11/triondaefe-4bdc871c-focus-0-0-696-464.jpg" group-title="Eventos Del Dia",canal1
+http://redworld.pro:8880/live/useriptv126z/kHdMAsvwxQHM/526169.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2025/11/triondaefe-4bdc871c-focus-0-0-696-464.jpg" group-title="Eventos Del Dia",canal2
+http://redworld.pro:8880/live/useriptv126z/kHdMAsvwxQHM/527938.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2025/11/triondaefe-4bdc871c-focus-0-0-696-464.jpg" group-title="Eventos Del Dia",Canal 3
+https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index_6.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2025/11/triondaefe-4bdc871c-focus-0-0-696-464.jpg" group-title="Eventos Del Dia", ENTEL GOL BO
 http://redworld.pro:8880/live/Juanestrozusach/XMCYxMwnRWyq/521032.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvPF1i8wrNSpdVaiMCY3T6sNQv-pLr1QgjZNDpziftRw&s=10" group-title="Eventos Del Dia",ESPN DEPORTES
+#EXTINF:-1 tvg-logo="https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2025/11/triondaefe-4bdc871c-focus-0-0-696-464.jpg" group-title="Eventos Del Dia",ESPN DEPORTES
 http://redworld.pro:8880/live/Juanestrozusach/XMCYxMwnRWyq/327914.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvPF1i8wrNSpdVaiMCY3T6sNQv-pLr1QgjZNDpziftRw&s=10" group-title="Eventos Del Dia",PSG Vs ARSENAL
+#EXTINF:-1 tvg-logo="https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2025/11/triondaefe-4bdc871c-focus-0-0-696-464.jpg" group-title="Eventos Del Dia",PSG Vs ARSENAL
 http://redworld.pro:8880/live/useriptv126z/kHdMAsvwxQHM/528649.m3u8
 
 #EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_asplur.png" group-title="26",13tv
