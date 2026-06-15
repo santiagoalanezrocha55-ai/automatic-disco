@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo="https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2025/11/triondaefe-4bdc871c-focus-0-0-696-464.jpg" group-title="Eventos Del Dia",canal1
 http://redworld.pro:8880/live/useriptv126z/kHdMAsvwxQHM/526169.m3u8
 
+#EXTINF:-1 tvg-logo="https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2025/11/triondaefe-4bdc871c-focus-0-0-696-464.jpg" group-title="Eventos Del Dia",solo eventos
+https://ym9yzq.fubo18.com/dsports/mono.m3u8?token=7650a36de273c4cf8e36b5a9f1fec989a6007f9c-77-1781555313-1781537313
+
 #EXTINF:-1 tvg-logo="https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2025/11/triondaefe-4bdc871c-focus-0-0-696-464.jpg" group-title="Eventos Del Dia",canal2
 http://redworld.pro:8880/live/useriptv126z/kHdMAsvwxQHM/527938.m3u8
 
