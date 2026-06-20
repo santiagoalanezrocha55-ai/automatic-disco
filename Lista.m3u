@@ -33,7 +33,7 @@ http://redworld.pro:8880/live/useriptv126z/kHdMAsvwxQHM/318384.m3u8
 #EXTINF:-1 tvg-logo="https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2025/11/triondaefe-4bdc871c-focus-0-0-696-464.jpg" group-title="Eventos Del Dia",Win Spotrs
 http://redworld.pro:8880/live/useriptv126z/kHdMAsvwxQHM/437743.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_asplur.png" group-title="26",13tv
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_asplur.png" group-title="Nacionales",13tv
 https://59d39900ebfb8.streamlock.net:443/telefehd/telefehd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_defensor.png" group-title="Entretenimiento",defensor tv
@@ -48,16 +48,16 @@ https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="Entretenimiento",fat tv
 https://srt.tvdatta.com/faphd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_vostv.png" group-title="BOLIVIA",Vos tv
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_vostv.png" group-title="Bolivia",Vos tv
 https://59d39900ebfb8.streamlock.net:443/vostv/vostv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_teleseis.png" group-title="BOLIVIA",telefe 6
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_teleseis.png" group-title="Bolivia",telefe 6
 http://rlatinop.com:8880/live/Jaime.ceballos_/FwsfG5QhEyMb/521032.m3u8
 
 #EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_aynitv.png" group-title="Entretenimiento",AINA TV
 https://59d39900ebfb8.streamlock.net:443/Aynitv/Aynitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_sigloxxi.png" group-title="BOLIVIA",LIGA BOLIVIA EVENTOS
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_sigloxxi.png" group-title="Bolivia",LIGA BOLIVIA EVENTOS
 http://rlatinop.com:8880/live/Jaime.ceballos_/FwsfG5QhEyMb/521032.m3u8
 
 #EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_bolivision.png" group-title="Bolivia",bolivision (720p)
@@ -120,10 +120,10 @@ http://181.118.158.103:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_tvulpz.png" group-title="Infantiles",cartounetwor (720p)
 http://181.118.158.103:8000/play/a037/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="deportes",Espn
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="Deportes",Espn
 http://181.118.158.103:8000/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn2.png" group-title="deportes",Espn2
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn2.png" group-title="Deportes",Espn2
 http://181.118.158.103:8000/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espnpremiun.png" group-title="Deportes",ESPN Premuin
