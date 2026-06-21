@@ -135,8 +135,8 @@ http://181.118.158.103:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/lossimpsons.png" group-title="24/7",simpson (720p)
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/online-24-7_480.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/space.png" group-title="Entretenimiento",Espace
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69.playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/space.png" group-title="Entretenimiento",space
+http://redworld.pro:8880/live/useriptv126z/kHdMAsvwxQHM/414500.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/amc.png" group-title="Entretenimiento",Amc
 http://38.224.22.252:8000/play/a00a/index.m3u8
