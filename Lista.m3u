@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2025/11/triondaefe-4bdc871c-focus-0-0-696-464.jpg" group-title="Eventos Del Dia",canal1
 http://redworld.pro:8880/live/Juanestrozusach/XMCYxMwnRWyq/526169.m3u8
 
-#EXTINF:-1 tvg-logo="https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2025/11/triondaefe-4bdc871c-focus-0-0-696-464.jpg" group-title="Eventos Del Dia",solo eventos
-http://redworld.pro:8880/live/Juanestrozusach/XMCYxMwnRWyq/534763.m3u8
+#EXTINF:-1 tvg-logo="https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2025/11/triondaefe-4bdc871c-focus-0-0-696-464.jpg" group-title="Eventos Del Dia",local eventos
+http://45.226.28.9:8085/Live/b2f42b6b9df5ca99775c0f2d99a9b313/local-evento2_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2025/11/triondaefe-4bdc871c-focus-0-0-696-464.jpg" group-title="Eventos Del Dia",canal2
 http://redworld.pro:8880/live/Juanestrozusach/XMCYxMwnRWyq/532986.m3u8
