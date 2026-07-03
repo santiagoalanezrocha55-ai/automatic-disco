@@ -133,10 +133,10 @@ http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F408
 http://181.118.158.103:8000/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/lossimpsons.png" group-title="24/7",simpson (720p)
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/online-24-7_480.m3u8
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/online-24-7_480.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/space.png" group-title="Entretenimiento",space
-http://redworld.pro:8880/live/useriptv126z/kHdMAsvwxQHM/414500.m3u8
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-space.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/amc.png" group-title="Entretenimiento",Amc
 http://38.224.22.252:8000/play/a00a/index.m3u8
@@ -151,13 +151,13 @@ http://38.224.22.252:8000/play/a00x/index.m3u8
 http://38.224.22.252:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cinemax.png" group-title="Entretenimiento",Cinemax (720p)
-http://38.97.240.11:8000/play/a0lg/index.m3u8
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-cinemax_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/starchannel.png" group-title="Entretenimiento",starchannel (Opcion 2)
 http://38.224.22.252:8000/play/a02d/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cinecanal.png" group-title="Entretenimiento",Cinecanal (720p)
-http://38.224.22.252:8000/play/a02s/index.m3u8
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-cinecanal_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/disneychanel.png" group-title="Infantiles",Disneychannel
 http://38.224.22.252:8000/play/a02c/index.m3u8
@@ -202,22 +202,22 @@ http://45.225.68.1:8532/Live/a6960d9d91931ed067db65a740462d65/local-ch16_720.m3u
 http://45.225.68.1:8532/Live/a6960d9d91931ed067db65a740462d65/local-ch19_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tnt.png" group-title="Entretenimiento",tnt
-http://redworld.pro:8880/live/useriptv126z/kHdMAsvwxQHM/414474.m3u8
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-tnt_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hbo.png" group-title="Entretenimiento",Hbo (Opcion 2)
-http://186.33.3.130:5000/play/a0gl/index.m3u8
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-hbo_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hbo2.png" group-title="Entretenimiento",Hbo 2 (Opcion 2)
-http://186.33.3.130:5000/play/a0gm/index.m3u8
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-hbo2_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hbofamily.png" group-title="Entretenimiento",Hbo Family (Opcion 2)
-http://186.33.3.130:5000/play/a0go/index.m3u8
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-hbofamily_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hboxtreme.png" group-title="Entretenimiento",Hbo xtreme (Opcion 2)
-http://186.33.3.130:5000/play/a0gp/index.m3u8
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-hboxtreme_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hboplus.png" group-title="Entretenimiento",Hbo Plus (Opcion 2)
-http://186.33.3.130:5000/play/a0gn/index.m3u8
+http://45.226.28.9:8085/Live/0a4c6c65bfd098cbfc4b98dc2f59b5ff/local-hboplus_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tycsports.png" group-title="Deportes",Tyc sports (720p)
 http://45.225.68.1:8532/Live/a6960d9d91931ed067db65a740462d65/local-ch28_720.m3u8
